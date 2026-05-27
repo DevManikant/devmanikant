@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**DevManikant/devmanikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a systems-focused software engineer passionate about high-performance automation, cloud infrastructure, and building scalable backend tools.
 
-Here are some ideas to get you started:
+### 🛠️ Core Tech Stack
+* **Languages:** Python, JavaScript, Go, C++
+* **Automation & Testing:** Playwright, Selenium
+* **Infrastructure & Cloud:** Docker, AWS (EC2), Azure Functions, Linux (Ubuntu/Lubuntu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+* **[Project Name 1]** - A high-precision automation tool utilizing Python and Playwright for sub-1ms event triggers.
+* **[Project Name 2]** - An automated computer vision system built using Python and OpenCV.
+
+### 📈 Stats & Connect
+* 💬 Ask me about: Script optimization, Linux performance tuning, and backend architecture.
+* ⚡ Fun Fact: I love optimizing scripts to squeeze out every millisecond of latency.
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+</p>
