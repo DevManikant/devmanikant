@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Manikant Sharma 👋
 
 I am a systems-focused software engineer passionate about high-performance automation, cloud infrastructure, and building scalable backend tools.
 
