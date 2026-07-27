@@ -193,9 +193,9 @@ Automated testing solutions for validating APIs and measuring system performance
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevManikant&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=DevManikant&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManikant&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManikant&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
