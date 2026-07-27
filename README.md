@@ -9,7 +9,9 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-  ---
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Satyam%20Sharma&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
 
   *Building high-precision automation scripts, scalable web architectures, and cloud-native solutions.*
 
