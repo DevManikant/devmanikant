@@ -43,7 +43,7 @@ I enjoy working on problems where **speed, reliability, and automation** matter 
 ### 🐍 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c" />
 </p>
 
 ### 🎭 Automation & Testing
