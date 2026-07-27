@@ -1,12 +1,11 @@
-<!-- 1. VISUALLY INTEGRATED ANIMATED HEADER BANNER -->
-<!-- Matches the deep blue-to-purple gradient of the reference image -->
+<!-- 1. VISUALLY INTEGRATED ANIMATED HEADER BANNER (FIXED SVG URL) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=123652,7F23E1&height=220&section=header&text=Manikant%20Sharma&fontSize=48&animation=fadeIn&fontColor=ffffff&desc=Systems%20%26%20Automation%20Engineer&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
 </div>
 
 <!-- 2. DYNAMIC TYPING HEADER & SOCIALS -->
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/devmanikant">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=High-Precision+Sub-1ms+Automation;Python+%26+Playwright+Specialist;Cloud+Infrastructure+%26+AsyncIO;Systems+Integration+Architect" alt="Typing SVG" />
   </a>
 
@@ -14,21 +13,21 @@
 
   <!-- MINIMALIST FLAT BADGES -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/devmanikant)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
 
 <br />
 
-<!-- 3. NEON DIVIDER (Matches glowing lines in reference image) -->
+<!-- 3. NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- 4. SIDE-BY-SIDE BIO & CUSTOM 3D VECTOR COMPOSITION -->
+<!-- 4. SIDE-BY-SIDE BIO & FIXED 3D ILLUSTRATION -->
 <br />
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"> About Me</h2>
       <p>I am a systems-focused engineer dedicated to building high-performance systems and precision automation data pipelines.</p>
       <ul>
@@ -37,10 +36,9 @@
         <li>⚡ <b>Core Languages:</b> Python (AsyncIO), JavaScript, C++.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- CUSTOM 3D VECTOR COMPOSTION: Desk + Giphy replacement -->
-      <!-- We create a composite SVG 'desk setup' integrated with the nebula/planet context -->
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/automation-engineer-8756317-7095493.png?f=webp" width="100%" alt="3D Automation Composition" />
+    <td width="45%" align="center" valign="middle">
+      <!-- RELIABLE GITHUB-ALLOWED 3D VECTOR GIF -->
+      <img src="https://media.giphy.com/media/uV3mC1123o3E18X3dO/giphy.gif" width="100%" alt="3D Automation Setup" />
     </td>
   </tr>
 </table>
@@ -50,7 +48,7 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- 5. DYNAMIC DASHBOARD (TABLE-CONTAINED STATS FOR VISUAL DEPTH) -->
+<!-- 5. DYNAMIC DASHBOARD -->
 <br />
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> Interactive Performance Metrics</h2>
@@ -59,18 +57,15 @@
 <table border="0">
   <tr>
     <td align="center">
-      <!-- Top Languages Card (Matching the Blue/Purple Theme) -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide=html,css,makefile&font=Fira+Code" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanikant&layout=compact&theme=dracula&hide=html,css,makefile&font=Fira+Code" alt="Top Languages" />
     </td>
     <td align="center">
-      <!-- GitHub Stats Card (Matching the Blue/Purple Theme) -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&font=Fira+Code" alt="GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmanikant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&font=Fira+Code" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <!-- Streak Stats Card (Matching the Blue/Purple Theme) -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&font=Fira+Code" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmanikant&theme=dracula&font=Fira+Code" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -81,7 +76,7 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- 6. TECH STACK (CLEAN GRID WITH ICONS) -->
+<!-- 6. TECH STACK -->
 <br />
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> Technical Ecosystem</h2>
@@ -95,7 +90,7 @@
 
 <br />
 
-<!-- 7. FEATURED PROJECTS (CARDS WITH VISUAL CUBES STATUS) -->
+<!-- 7. FEATURED PROJECTS -->
 <br />
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> Highlighted Projects</h2>
@@ -109,7 +104,7 @@
 
 ---
 
-<!-- 8. COLLAPSIBLE DEEP DIVES FOR SCALABLE CONTENT (THEME-MATCHED CODE SNIPPET) -->
+<!-- 8. COLLAPSIBLE DEEP DIVES -->
 <br />
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="30"> Architecture & Performance Notes</h2>
