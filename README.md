@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Satyam%20Sharma&fontSize=48&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Manikant%20Sharma&fontSize=48&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
 </div>
 
 <!-- DYNAMIC TYPING HEADER -->
