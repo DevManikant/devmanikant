@@ -6,7 +6,7 @@
 
 **I build automation solutions that are fast, reliable, and scalable.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DevManikant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -193,9 +193,9 @@ Automated testing solutions for validating APIs and measuring system performance
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevManikant&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManikant&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -215,7 +215,7 @@ Automated testing solutions for validating APIs and measuring system performance
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevManikant&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -245,7 +245,7 @@ I'm always interested in discussing:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/DevManikant">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
