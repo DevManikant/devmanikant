@@ -1,103 +1,268 @@
-<!-- 1. HEADER BANNER (EMBEDDED DATA SVG - WILL NOT CUT OFF OR STRIP GRADIENT) -->
 <div align="center">
-  <img width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 220' width='100%' height='220'><defs><linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%23123652'/><stop offset='100%' stop-color='%237F23E1'/></linearGradient></defs><rect width='1200' height='220' fill='url(%23g)' rx='15'/><text x='50%' y='45%' text-anchor='middle' fill='%23FFFFFF' font-family='Fira Code, Segoe UI, sans-serif' font-size='48' font-weight='bold'>Manikant Sharma</text><text x='50%' y='72%' text-anchor='middle' fill='%23BD93F9' font-family='Fira Code, Segoe UI, sans-serif' font-size='22'>Systems &amp; Automation Engineer</text></svg>" alt="Header Banner" />
+
+# 👋 MANIKANT SHARMA
+
+### `AUTOMATION ENGINEER` · `PYTHON DEVELOPER` · `QA AUTOMATION`
+
+**I build automation solutions that are fast, reliable, and scalable.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=header" width="100%"/>
+
 </div>
-
-<br />
-
-<!-- 2. TYPING BADGE & SOCIALS -->
-<div align="center">
-  <a href="https://github.com/devmanikant">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=High-Precision+Sub-1ms+Automation;Python+%26+Playwright+Specialist;Cloud+Infrastructure+%26+AsyncIO;Systems+Integration+Architect" alt="Typing Header" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/devmanikant"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br />
-
-<!-- 3. NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
-
-<br />
-
-<!-- 4. BIO & 3D VECTOR ILLUSTRATION (FIXED VIA EMBEDDED SVG IMAGE) -->
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h2>⚙️ About Me</h2>
-      <p>I am a systems-focused engineer dedicated to building high-performance systems and precision automation data pipelines.</p>
-      <ul>
-        <li>🔭 <b>Specialization:</b> Asynchronous event loops, sub-millisecond execution triggers, and cloud-native infrastructure.</li>
-        <li>💻 <b>Environments:</b> Linux (Ubuntu / Lubuntu), AWS EC2, Azure Functions, Docker.</li>
-        <li>⚡ <b>Core Languages:</b> Python (AsyncIO), JavaScript, C++.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- Embedded 3D Planet + Cyber Desk Vector -->
-      <img width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300' width='400' height='300'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%230a1118'/><stop offset='100%' stop-color='%231a0b2e'/></linearGradient><linearGradient id='pl' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%23123652'/><stop offset='100%' stop-color='%237F23E1'/></linearGradient></defs><rect width='400' height='300' rx='12' fill='url(%23bg)'/><ellipse cx='90' cy='80' rx='65' ry='12' fill='none' stroke='%23BD93F9' stroke-width='3' opacity='0.6' transform='rotate(-15 90 80)'/><circle cx='90' cy='80' r='35' fill='url(%23pl)'/><path d='M 180 120 Q 220 70 270 90 T 360 40' fill='none' stroke='%23BD93F9' stroke-width='3' opacity='0.8'/><polygon points='355,32 368,40 358,48' fill='%23BD93F9'/><polygon points='330,130 345,122 360,130 345,138' fill='%23BD93F9' opacity='0.8'/><polygon points='330,130 345,138 345,152 330,144' fill='%237F23E1' opacity='0.9'/><ellipse cx='200' cy='270' rx='160' ry='20' fill='%23121220'/><ellipse cx='200' cy='270' rx='160' ry='20' fill='none' stroke='%237F23E1' stroke-width='2'/><rect x='110' y='160' width='80' height='50' rx='4' fill='%231e1e2e' stroke='%23333' stroke-width='2'/><rect x='115' y='165' width='70' height='40' fill='%230d1117'/><line x1='120' y1='175' x2='150' y2='175' stroke='%237F23E1' stroke-width='2'/><line x1='120' y1='183' x2='170' y2='183' stroke='%23BD93F9' stroke-width='2'/><rect x='200' y='150' width='100' height='60' rx='4' fill='%231e1e2e' stroke='%23333' stroke-width='2'/><rect x='205' y='155' width='90' height='50' fill='%230d1117'/><line x1='212' y1='165' x2='250' y2='165' stroke='%2350fa7b' stroke-width='2'/><line x1='212' y1='173' x2='280' y2='173' stroke='%23BD93F9' stroke-width='2'/><rect x='180' y='215' width='30' height='40' rx='6' fill='%23181825' stroke='%237F23E1' stroke-width='1.5'/></svg>" alt="3D Vector Illustration" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
-
-<br />
-
-<!-- 5. TECHNICAL ECOSYSTEM -->
-<h2>🛠️ Technical Ecosystem</h2>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python (AsyncIO)` `JavaScript` `Java` `C++` `C#` `Dart` |
-| **Automation & Vision** | `Playwright` `Selenium` `OpenCV` `BeautifulSoup` |
-| **Cloud & DevOps** | `AWS (EC2)` `Azure Functions` `Docker` `Linux (Ubuntu/Lubuntu)` `Git` |
-| **Backend & DB** | `Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Redis` |
-
-<br />
-
-<!-- 6. FEATURED PROJECTS -->
-<h2>🚀 Highlighted Projects</h2>
-
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **High-Precision Automation Engine** | Sub-millisecond trigger script engineered for high-concurrency event interaction. | `Python` `Playwright` `AsyncIO` | <img src="https://img.shields.io/badge/Status-Active-7F23E1?style=flat-square" /> |
-| **Face Recognition System** | Computer vision-based automated attendance management system. | `Python` `OpenCV` `SQLite` | <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square" /> |
-
-<br />
 
 ---
 
-<br />
+## 🧑‍💻 About Me
 
-<!-- 7. ARCHITECTURE DEEP DIVES -->
-<h2>🔍 Architecture & Performance Notes</h2>
+I'm an **Automation Engineer and Python Developer** focused on building practical automation systems and reliable testing solutions.
 
-<details>
-<summary><b>Click to expand: High-Precision Automation Architecture (&lt; 1ms Latency)</b></summary>
-<br />
+My experience spans **browser automation, QA automation, API testing, performance testing, web scraping, real-time monitoring, and database validation**.
 
-### Core Engineering Focus
-The primary challenge is minimizing execution latency between an event trigger and the automation action.
+I enjoy working on problems where **speed, reliability, and automation** matter — from running multiple browser instances in parallel to building systems that monitor real-time events.
 
-* **Non-Blocking Execution:** Leverages Python's `asyncio` loop combined with `Playwright`'s asynchronous API.
-* **Network Optimization:** Multi-region AWS deployments chosen for physical proximity to target sockets.
-* **Zero Overhead:** Streamlined Docker containers running on tuned Ubuntu Server instances.
+```text
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   BUILD          AUTOMATE          TEST          OPTIMIZE  │
+│                                                           │
+│      Python  →  Playwright  →  API  →  Performance       │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
-```python
-import asyncio
-import time
+---
 
-async def precision_trigger(event_data):
-    start_time = time.time()
-    async with action_context() as action:
-        result = await action.execute(event_data)
-    end_time = time.time()
-    print(f"Executed in: {end_time - start_time:.6f}s")
+# ⚙️ My Tech Arsenal
+
+### 🐍 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
+</p>
+
+### 🎭 Automation & Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,pytest,cypress" />
+</p>
+
+**Playwright** · **Selenium** · **PyTest** · **Cypress** · **BDD**
+
+### 🔌 API & Performance
+
+`REST API` · `Requests` · `Locust` · `API Automation` · `Load Testing`
+
+### 🌐 Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
+</p>
+
+### 🗄️ Database
+
+`SQL` · `MongoDB` · `Backend Validation` · `Data Verification`
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Automation Engineering
+
+Building browser automation systems using **Python, Playwright, and Selenium**.
+
+</td>
+<td width="50%">
+
+### 🧪 QA Automation
+
+Creating automated test solutions for functional, UI, API, and end-to-end testing.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Performance Engineering
+
+Working with parallel browser execution, event-driven automation, and performance optimisation.
+
+</td>
+<td width="50%">
+
+### 🔌 API Testing
+
+Automating REST API validation and verifying backend data using SQL.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Automation
+
+Building web scraping, monitoring, and browser-based automation solutions.
+
+</td>
+<td width="50%">
+
+### 📡 Real-Time Systems
+
+Creating monitoring systems that detect events and deliver real-time notifications.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 Featured Projects
+
+## ⚡ High-Performance Browser Automation
+
+A browser automation solution designed for **time-sensitive workflows** using a hybrid Playwright architecture.
+
+**Highlights:**
+
+* Parallel browser automation
+* Multiple concurrent Playwright instances
+* DOM and JavaScript optimisation
+* Mutation Observer optimisation
+* Event-driven automation
+* Low-latency execution
+
+**Stack:**
+
+`Python` `Playwright` `JavaScript` `Chromium` `DOM Analysis`
+
+---
+
+## 🎟️ Real-Time Ticket Availability Monitoring
+
+A monitoring system designed to track ticket availability and notify users when tickets become available.
+
+**Highlights:**
+
+* Real-time availability monitoring
+* REST API integration
+* Automated notifications
+* Cloud-based execution
+
+**Stack:**
+
+`Python` `REST API` `Azure Functions` `Telegram Bot`
+
+---
+
+## 🧪 API & Performance Testing
+
+Automated testing solutions for validating APIs and measuring system performance.
+
+**Highlights:**
+
+* REST API automation
+* Response validation
+* Database verification
+* Load testing
+* Performance analysis
+
+**Stack:**
+
+`Python` `Requests` `Locust` `SQL`
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 💡 My Engineering Philosophy
+
+<div align="center">
+
+### `AUTOMATE THE BORING.`
+
+### `OPTIMIZE THE SLOW.`
+
+### `TEST THE IMPORTANT.`
+
+### `BUILD WHAT MATTERS.`
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+I'm always interested in discussing:
+
+`Automation` · `Python` · `QA Engineering` · `Playwright` · `Selenium` · `Performance Testing` · `Interesting Technical Problems`
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Automate the boring. Focus on the impact.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
