@@ -1,5 +1,37 @@
 <div align="center">
 
+<img 
+  src="./assets/hero.png" 
+  alt="Manikant Sharma - Automation Engineer and Python Developer"
+  width="100%"
+/>
+
+</div>
+<div align="center">
+
+<a href="#featured-projects">
+  <img src="https://img.shields.io/badge/🚀_VIEW_MY_PROJECTS-FF6B00?style=for-the-badge" />
+</a>
+
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/📄_RESUME-222222?style=for-the-badge" />
+</a>
+
+</div>
+<h2 align="center">⚡ MY TECH ARSENAL</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,playwright,selenium,javascript,sql,docker,aws,azure,git,github" />
+
+<br><br>
+
+`Python` · `Playwright` · `Selenium` · `JavaScript` · `SQL`  
+`API Testing` · `Performance Testing` · `Docker` · `AWS` · `Azure`
+
+</div>
+<div align="center">
+
 # 👋 MANIKANT SHARMA
 
 ### `AUTOMATION ENGINEER` · `PYTHON DEVELOPER` · `QA AUTOMATION`
@@ -189,15 +221,7 @@ Automated testing solutions for validating APIs and measuring system performance
 
 ---
 
-# 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevManikant&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManikant&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
