@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=MANIKANT%20SHARMA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Automation%20Engineer%20|%20Framework%20Developer&descAlignY=65&descScale=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=MANIKANT%20SHARMA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Systems-Focused%20Software%20Engineer&descAlignY=65&descScale=18" width="100%" alt="Header Banner" />
 
-  <!-- Subtitle Quote -->
+  <!-- Subtitle / Bio -->
   <p align="center">
-    <i>"I build automation frameworks and tools that make testing <b>faster</b>, <b>smarter</b>, and <b>reliable</b>."</i>
+    <i>Passionate about <b>high-performance automation</b>, <b>cloud infrastructure</b>, and building <b>scalable backend tools</b>.</i>
   </p>
 
   <br />
@@ -29,34 +29,42 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Core Tech Stack
 
 <p align="left">
-  <!-- Skill Badges with Custom Neon Colors -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <br />
+  <!-- Automation & Testing -->
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performance_Testing-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Infrastructure & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Functions-0089D6?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Highlights & Metrics
+### 🚀 Recent Projects
 
-<div align="center">
+> **⚡ High-Precision Automation Tool**  
+> Built with **Python**, **Playwright**, and **JS injection** to achieve sub-1ms event triggers while maintaining human-like browser footprints.
 
-| ⚙️ Experience | 📂 Projects | ⚡ Efficiency | 🎯 Quality |
-| :---: | :---: | :---: | :---: |
-| **3+ Years** | **20+ Completed** | **10X Faster** | **100% Commitment** |
-| Automation Engineering | E2E Frameworks | Test Executions | High Quality Assurance |
+> **👁️ Computer Vision System**  
+> An automated real-time recognition system built using **Python** and **OpenCV**.
 
-</div>
+---
 
-<br />
+### 💬 About & Philosophy
+
+* 💬 **Ask me about:** Script optimization, Linux performance tuning, and backend architecture.
+* ⚡ **Fun Fact:** I love optimizing scripts to squeeze out every single millisecond of latency.
 
 ---
 
@@ -73,5 +81,5 @@
 <br />
 
 <div align="center">
-  <sub>Designed with 💜 for Automation Engineering</sub>
+  <sub>Engineered with 💜 for Ultra-Low Latency & High Performance</sub>
 </div>
