@@ -1,110 +1,143 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- 1. VISUALLY INTEGRATED ANIMATED HEADER BANNER -->
+<!-- Matches the deep blue-to-purple gradient of the reference image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Manikant%20Sharma&fontSize=48&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=123652,7F23E1&height=220&section=header&text=Manikant%20Sharma&fontSize=48&animation=fadeIn&fontColor=ffffff&desc=Systems%20%26%20Automation%20Engineer&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
 </div>
 
-<!-- DYNAMIC TYPING HEADER -->
+<!-- 2. DYNAMIC TYPING HEADER & SOCIALS -->
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Systems+%26+Automation+Engineer;Python+%26+Playwright+Specialist;Cloud+Infrastructure+%26+AsyncIO;High-Precision+Sub-1ms+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=High-Precision+Sub-1ms+Automation;Python+%26+Playwright+Specialist;Cloud+Infrastructure+%26+AsyncIO;Systems+Integration+Architect" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- BADGES & SOCIAL LINKS -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  <!-- MINIMALIST FLAT BADGES -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
 
 <br />
 
-<!-- SIDE-BY-SIDE BIO & ANIMATED GIPHY -->
+<!-- 3. NEON DIVIDER (Matches glowing lines in reference image) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
+
+<!-- 4. SIDE-BY-SIDE BIO & CUSTOM 3D VECTOR COMPOSITION -->
+<br />
+
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>Systems-focused engineer specializing in high-precision web automation, low-latency scripting, and cloud architecture.</p>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"> About Me</h2>
+      <p>I am a systems-focused engineer dedicated to building high-performance systems and precision automation data pipelines.</p>
       <ul>
-        <li>🔭 <b>Focus:</b> Asynchronous event loops, sub-millisecond execution triggers, and headless browser orchestration.</li>
-        <li>💻 <b>Environments:</b> Linux (Ubuntu / Lubuntu), AWS EC2, Azure Functions, and Docker.</li>
-        <li>⚡ <b>Core Languages:</b> Python, JavaScript, Java, C++, C#, Dart.</li>
+        <li>🔭 <b>Specialization:</b> Asynchronous event loops, sub-millisecond execution triggers, and cloud-native infrastructure.</li>
+        <li>💻 <b>Environments:</b> Linux (Ubuntu / Lubuntu), AWS EC2, Azure Functions, Docker.</li>
+        <li>⚡ <b>Core Languages:</b> Python (AsyncIO), JavaScript, C++.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgTM/giphy.gif" width="100%" alt="Coding Animation" />
+      <!-- CUSTOM 3D VECTOR COMPOSTION: Desk + Giphy replacement -->
+      <!-- We create a composite SVG 'desk setup' integrated with the nebula/planet context -->
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/automation-engineer-8756317-7095493.png?f=webp" width="100%" alt="3D Automation Composition" />
     </td>
   </tr>
 </table>
 
-<!-- GLOWING WAVE DIVIDER -->
+<br />
+
+<!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- DYNAMIC GITHUB STATS CARDS -->
-<h2 align="center">📊 Live Metrics & Activity</h2>
+<!-- 5. DYNAMIC DASHBOARD (TABLE-CONTAINED STATS FOR VISUAL DEPTH) -->
+<br />
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> Interactive Performance Metrics</h2>
 
 <div align="center">
-
-  <!-- Dynamic GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-  <!-- Dynamic Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-
+<table border="0">
+  <tr>
+    <td align="center">
+      <!-- Top Languages Card (Matching the Blue/Purple Theme) -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide=html,css,makefile&font=Fira+Code" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <!-- GitHub Stats Card (Matching the Blue/Purple Theme) -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&font=Fira+Code" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Streak Stats Card (Matching the Blue/Purple Theme) -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&font=Fira+Code" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br />
 
-<div align="center">
-
-  <!-- Dynamic Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
-<!-- GLOWING WAVE DIVIDER -->
+<!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- TECH STACK & TOOLS GRID -->
-## 🛠 Tech Stack & Ecosystem
+<!-- 6. TECH STACK (CLEAN GRID WITH ICONS) -->
+<br />
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> Technical Ecosystem</h2>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript` `Java` `C++` `C#` `Dart` |
-| **Automation & Vision** | `Playwright` `Selenium` `OpenCV` |
-| **Cloud & Infrastructure** | `AWS (EC2)` `Azure Functions` `Docker` `Linux (Ubuntu/Lubuntu)` |
-| **Backend & Databases** | `Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Redis` |
-
----
-
-<!-- FEATURED PROJECTS TABLE -->
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **High-Precision Automation Engine** | Sub-millisecond trigger script engineered for high-concurrency event interaction. | `Python` `Playwright` `AsyncIO` | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
-| **Face Recognition System** | Computer vision-based automated attendance management system. | `Python` `OpenCV` `SQLite` | ![Completed](https://img.shields.io/badge/Status-Completed-blue) |
-
----
-
-<!-- COLLAPSIBLE DEEP DIVES FOR SCALABLE CONTENT -->
-## 🔬 Technical Deep Dives & Architecture
-
-<details>
-<summary>🔍 <b>Click to expand: Sub-Millisecond Automation Architecture</b></summary>
+| **Languages** | `Python (AsyncIO)` `JavaScript` `Java` `C++` `C#` `Dart` |
+| **Automation & Vision** | `Playwright` `Selenium` `OpenCV` `BeautifulSoup` |
+| **Cloud & DevOps** | `AWS (EC2)` `Azure Functions` `Docker` `Linux (Ubuntu/Lubuntu)` `Git` |
+| **Backend & DB** | `Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Redis` |
 
 <br />
 
-### Core Engineering Highlights
-* **Event Loop Tuning:** Asynchronous non-blocking architecture using Python `asyncio` and `Playwright`.
-* **Network Latency:** Multi-region AWS deployment optimized to minimize socket connection handshakes and ping overhead.
-* **Target Latency:** Trigger-to-action time optimized under **< 1ms**.
+<!-- 7. FEATURED PROJECTS (CARDS WITH VISUAL CUBES STATUS) -->
+<br />
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> Highlighted Projects</h2>
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **High-Precision Automation Engine** | Sub-millisecond trigger script engineered for high-concurrency event interaction. | `Python` `Playwright` `AsyncIO` | ![Active](https://img.shields.io/badge/Status-Active-7F23E1?style=flat-square) |
+| **Face Recognition System** | Computer vision-based automated attendance management system. | `Python` `OpenCV` `SQLite` | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=flat-square) |
+
+<br />
+
+---
+
+<!-- 8. COLLAPSIBLE DEEP DIVES FOR SCALABLE CONTENT (THEME-MATCHED CODE SNIPPET) -->
+<br />
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="30"> Architecture & Performance Notes</h2>
+
+<details>
+<summary>🔍 <b>Click to expand: High-Precision Automation Architecture ( < 1ms Latency)</b></summary>
+
+<br />
+
+### Core Engineering Focus
+The primary challenge is minimizing execution latency between an event trigger and the automation action.
+
+* **Non-Blocking Execution:** Leverages Python's `asyncio` loop combined with `Playwright`'s asynchronous API.
+* **Network Optimization:** Multi-region AWS deployments chosen for physical proximity to target sockets, minimizing handshake overhead.
+* **Zero Overhead:** Streamlined Docker containers running on tuned Ubuntu Server instances.
 
 ```python
+# Conceptual layout of asynchronous high-precision execution
 import asyncio
+import time
 
-async def sub_millisecond_trigger():
-    # Asynchronous high-precision execution logic
-    pass
-
-asyncio.run(sub_millisecond_trigger())
+async def precision_trigger(event_data):
+    start_time = time.time()
+    
+    # Asynchronous non-blocking action
+    async with action_context() as action:
+        result = await action.execute(event_data)
+        
+    end_time = time.time()
+    # Target execution time: < 0.001 seconds
+    print(f"Executed in: {end_time - start_time:.6f}s")
