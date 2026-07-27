@@ -1,7 +1,20 @@
-<!-- 1. VISUALLY INTEGRATED ANIMATED HEADER BANNER (FIXED SVG URL) -->
+<!-- 1. BULLETPROOF GRADIENT HEADER (PURE HTML/SVG) -->
+<!-- Uses the exact deep space blue (#123652) to vibrant purple (#7F23E1) gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=123652,7F23E1&height=220&section=header&text=Manikant%20Sharma&fontSize=48&animation=fadeIn&fontColor=ffffff&desc=Systems%20%26%20Automation%20Engineer&descSize=20&descAlignY=65" width="100%" alt="Header Banner" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="220">
+    <defs>
+      <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#123652" />
+        <stop offset="100%" stop-color="#7F23E1" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="220" fill="url(#headerGrad)" rx="15" />
+    <text x="50%" y="45%" text-anchor="middle" fill="#FFFFFF" font-family="'Fira Code', 'Segoe UI', sans-serif" font-size="48" font-weight="bold">Manikant Sharma</text>
+    <text x="50%" y="70%" text-anchor="middle" fill="#BD93F9" font-family="'Fira Code', 'Segoe UI', sans-serif" font-size="22">Systems &amp; Automation Engineer</text>
+  </svg>
 </div>
+
+<br />
 
 <!-- 2. DYNAMIC TYPING HEADER & SOCIALS -->
 <div align="center">
@@ -9,7 +22,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=High-Precision+Sub-1ms+Automation;Python+%26+Playwright+Specialist;Cloud+Infrastructure+%26+AsyncIO;Systems+Integration+Architect" alt="Typing SVG" />
   </a>
 
-  <br />
+  <br /><br />
 
   <!-- MINIMALIST FLAT BADGES -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -19,12 +32,12 @@
 
 <br />
 
-<!-- 3. NEON DIVIDER -->
+<!-- 3. GITHUB-HOSTED GLOWING NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- 4. SIDE-BY-SIDE BIO & FIXED 3D ILLUSTRATION -->
 <br />
 
+<!-- 4. SIDE-BY-SIDE BIO & GUARANTEED 3D ANIMATION -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -37,8 +50,8 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <!-- RELIABLE GITHUB-ALLOWED 3D VECTOR GIF -->
-      <img src="https://media.giphy.com/media/uV3mC1123o3E18X3dO/giphy.gif" width="100%" alt="3D Automation Setup" />
+      <!-- 100% RELIABLE GITHUB-ALLOWED MEDIA -->
+      <img src="https://media.giphy.com/media/uV3mC1123o3E18X3dO/giphy.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -48,37 +61,9 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
 
-<!-- 5. DYNAMIC DASHBOARD -->
 <br />
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> Interactive Performance Metrics</h2>
-
-<div align="center">
-<table border="0">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanikant&layout=compact&theme=dracula&hide=html,css,makefile&font=Fira+Code" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmanikant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&font=Fira+Code" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmanikant&theme=dracula&font=Fira+Code" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<br />
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d600-a473-11eb-812d-d005fe0e8286.gif" width="100%" />
-
-<!-- 6. TECH STACK -->
-<br />
-
+<!-- 5. TECHNICAL ECOSYSTEM -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> Technical Ecosystem</h2>
 
 | Category | Technologies |
@@ -90,9 +75,7 @@
 
 <br />
 
-<!-- 7. FEATURED PROJECTS -->
-<br />
-
+<!-- 6. FEATURED PROJECTS -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> Highlighted Projects</h2>
 
 | Project | Description | Stack | Status |
@@ -104,13 +87,13 @@
 
 ---
 
-<!-- 8. COLLAPSIBLE DEEP DIVES -->
 <br />
 
+<!-- 7. ARCHITECTURE DEEP DIVES -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="30"> Architecture & Performance Notes</h2>
 
 <details>
-<summary>🔍 <b>Click to expand: High-Precision Automation Architecture ( < 1ms Latency)</b></summary>
+<summary>🔍 <b>Click to expand: High-Precision Automation Architecture ( &lt; 1ms Latency)</b></summary>
 
 <br />
 
