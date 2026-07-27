@@ -77,7 +77,33 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave" />
 
 </div>
+<div align="center">
 
+  <!-- Custom Hero/Background Banner (The sci-fi environment from our design) -->
+  <!-- You must upload your clean background image to your repo as background.png first -->
+  <img src="./background.png" width="100%" alt="Manikant Sharma Sci-Fi Background" style="max-width: 1000px;" />
+
+  <br /><br />
+
+  <!-- Animated Cat Giphy/GIF -->
+  <!-- Replace the src with your uploaded Giphy link or the local path ./cat-cursor.gif -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img
+      src="https://media.giphy.com/media/your-cat-cursor-id/giphy.gif"
+      alt="Interactive Cat Following Cursor Giphy"
+      width="250"
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"
+    />
+  </a>
+
+  <br /><br />
+
+  <!-- The descriptive text from the design plan -->
+  <samp>
+    &lt;!-- Interactive Giphy: Cat following cursor. Hover to see it in action. --&gt;
+  </samp>
+
+</div>
 <br />
 
 <div align="center">
